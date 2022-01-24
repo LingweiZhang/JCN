@@ -8,21 +8,15 @@ Journal Club with specialization in Neuroscience (JCN) is an in-the-flash activi
 
 |  Time  |  Host  |  Topic  | Status |
 | --- | --- | --- | --- |
-|  Jan 11th | 潘祎杰 | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf) |
-|  Mar 21st | 吴亚楠 | Proteomic Profiling & Wiring Regulators | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/02/JCN2.pdf) |
-|  Week 4 | 诸言明 | Spike Replaying & Human Memory Retrieval | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.pdf)  & [Video uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.mp4)  |
-|  Week 5 | 吴佳芮 | | |
-|  Week 6 | 黄予超 | | |
-|  Week 7 | 张凌威 | | |
-|  Week 8 | 潘祎杰 | | |
-|  Week 9 | 林云致 | | |
-|  Week 10 | 刘君朗 | | |
-
-### Finished
-
-1. Yijie Pan's talk about [Sensory coding mechanisms revealed by optical tagging of physiologically defined neuronal types](https://lingweizhang.github.io/JCN/2020Spring/01/paper1.pdf).
-2. Yanan Wu's talk about [Cell-Surface Proteomic Profiling in the Fly Brain Uncovers Wiring Regulators](https://lingweizhang.github.io/JCN/2020Spring/02/paper1.pdf).
-3. Yanming Zhu's talk about [Replay of cortical spiking sequences during human memory retrieval](https://lingweizhang.github.io/JCN/2020Spring/03/paper1.pdf).
+|  Week 1 | Yijie Pan(潘祎杰) | Olfactory Coding |[Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/01/JCN1.pdf) |
+|  Week 2 | Yanan Wu(吴亚楠) | Proteomic Profiling & Wiring Regulators | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/02/JCN2.pdf) |
+|  Week 3 | Yanming Zhu(诸言明) | Spike Replaying & Human Memory Retrieval | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.pdf)  & [Video uploaded](https://lingweizhang.github.io/JCN/2020Spring/03/JCN3.mp4)  |
+|  Week 4 | Jiarui Wu(吴佳芮) |  Axon Initial Segment Plasticity | [Paper uploaded](https://lingweizhang.github.io/JCN/2020Spring/04/JCN4.pdf)|
+|  Week 5 | Yuchao Huang(黄予超) | Hippocampal Transferrable Representation | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/05/JCN5.pdf)|
+|  Week 6 | Lingwei Zhang(张凌威) | Adaptive Learning in Insects Brain | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/06/JCN6.pdf)|
+|  Week 7 | Yijie Pan(潘祎杰) |Choice/Action/Engagement Encoding | [Paper uploaded](https://lingweizhang.github.io/JCN/2020Spring/07/JCN7.pdf)|
+|  Week 8 | Junlang Liu(刘君朗) | Sono-optogenetics| [Paper uploaded](https://lingweizhang.github.io/JCN/2020Spring/08/JCN8.pdf) |
+|  Week 9 | Yuchao Huang(黄予超) | Feedback & Secondary Receptive Field | [Lecture uploaded](https://lingweizhang.github.io/JCN/2020Spring/09/JCN9.pdf)|
 
 ### How to post your talk on the schedule
 
